@@ -35,15 +35,15 @@ References – websites, papers, packages, data refs, etc. You need to cite your
 references in the body of the document properly and should include those properly cited references at the end. You can choose any citation format (Chicago, MLA, etc…) but be consistent when you cite your references (There is no specific citation format, just be consistent). Include your R scripts! (e.g. R codes in a zipped folder with the written part of the assignment and upload the zipped folder to LMS ) and also include the Github URL that contains the code.
 
 6. Electronic version of the poster (5%). Please use the poster templates that are available on LMS.
-a). Title (with your name) and Abstract
-b). Problem area – what you wanted to explore/ solve/ predict and why, and what you wanted
-to predict?
-c). The data – where it came from, why it was applicable, and the preliminary assessments you
-made. Include your Exploratory Data Analytics (EDA) section on the poster as well.
-d). How you conducted your analysis: distribution, pattern/ relationship, and model
-construction. What techniques did you use/ not use and why? What worked? What did not
-work?
-e). How did you apply the model? How did you optimize, and account for uncertainties?
-f). What did you predict and what decisions (prescriptions) were possible? What were the
-outcomes, and conclusions?
+  a). Title (with your name) and Abstract
+  b). Problem area – what you wanted to explore/ solve/ predict and why, and what you wanted
+  to predict?
+  c). The data – where it came from, why it was applicable, and the preliminary assessments you
+  made. Include your Exploratory Data Analytics (EDA) section on the poster as well.
+  d). How you conducted your analysis: distribution, pattern/ relationship, and model
+  construction. What techniques did you use/ not use and why? What worked? What did not
+  work?
+  e). How did you apply the model? How did you optimize, and account for uncertainties?
+  f). What did you predict and what decisions (prescriptions) were possible? What were the
+  outcomes, and conclusions?
 
